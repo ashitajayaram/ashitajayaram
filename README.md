@@ -28,16 +28,16 @@
 ### 🛠️ Tech Stack & Tools
 <p align="left">
   <a href="https://www.java.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Java_logo_%282013%29.svg" alt="Java" width="50" height="50"/>
+    <img src="Javalogo.png" alt="Java" width="60" height="60"/>
   </a>
   <a href="https://www.python.org" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Flask_logo.svg" alt="Flask" width="50" height="50"/>
+    <img src="flasklogo.jpg" alt="Flask" width="50" height="50"/>
   </a>
   <a href="https://www.mongodb.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/MongoDB_Logo.svg" alt="MongoDB" width="50" height="50"/>
+    <img src="mongodblogo.png" alt="MongoDB" width="50" height="50"/>
   </a>
 </p>
 
