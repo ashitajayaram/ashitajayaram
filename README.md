@@ -1,7 +1,7 @@
-<div style="text-align: center;">
-  <h1>Hi, I'm Ashita 👋</h1>
-  <h4>Passionate about Solving Real-World Problems through Innovation</h4>
-</div>
+
+  <h1 align="center">Hi, I'm Ashita 👋</h1>
+  <h4 align="center">Passionate about Solving Real-World Problems through Innovation</h4>
+
 
 
 
@@ -28,6 +28,7 @@
 </p>
 
 ### 🛠️ Tech Stack & Tools
+#### Have experience with
 <p align="left">
   <span style="display: inline-block; margin-right: 50px;">
     <a href="https://www.java.com" target="_blank">
@@ -49,6 +50,31 @@
       <img src="mongodblogo.png" alt="MongoDB" width="80" height="80"/>
     </a>
   </span>
+  <!-- NumPy -->
+  <a href="https://numpy.org" target="_blank">
+    <img src="numpylogo.jpg" alt="NumPy" width="80" height="80" style="margin-right: 90px;"/>
+  </a>
+  
+  <!-- Pandas -->
+  <a href="https://pandas.pydata.org" target="_blank">
+    <img src="pandaslogo.jpg" alt="Pandas" width="80" height="80" style="margin-right: 90px;"/>
+  </a>
+  
+  <!-- Streamlit -->
+  <a href="https://streamlit.io" target="_blank">
+    <img src="streamlitlogo.jpg" width="80" height="80" style="margin-right: 90px;"/>
+  </a>
+  
+  <!-- C -->
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="clogo.png" alt="C" width="80" height="80" style="margin-right: 15px;"/>
+  </a>
+  
+  <!-- SQL -->
+  <a href="https://www.mysql.com" target="_blank">
+    <img src="mysqllogo.png" alt="SQL" width="80" height="80" style="margin-right: 15px;"/>
+  </a>
+</p>
 </p>
 
 
