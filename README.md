@@ -1,7 +1,9 @@
-<p align="center">
+<div style="text-align: center;">
   <h1>Hi, I'm Ashita 👋</h1>
   <h4>Passionate about Solving Real-World Problems through Innovation</h4>
-</p>
+</div>
+
+
 
 ### 🚀 About Me
 - 🎓 Second-year engineering student (BTech in AI & ML) 
