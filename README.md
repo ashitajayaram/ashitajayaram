@@ -39,9 +39,6 @@
   <a href="https://www.mongodb.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/MongoDB_Logo.svg" alt="MongoDB" width="50" height="50"/>
   </a>
-  <a href="https://www.mysql.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/MySQL_logo.svg" alt="SQL" width="50" height="50"/>
-  </a>
 </p>
 
 ### 📈 GitHub Stats
