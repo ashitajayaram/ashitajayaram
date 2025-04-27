@@ -20,7 +20,7 @@
 ![Ashita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashitajayaram&show_icons=true&theme=radical)
 
 ### 🌐 Let's Connect
-- [LinkedIn](www.linkedin.com/in/ashita-jayaram)
+- [LinkedIn](https://www.linkedin.com/in/ashita-jayaram/)
 
 
 ---
