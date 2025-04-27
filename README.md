@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Ashita! 👋
 
-<!--
-**ashitajayaram/ashitajayaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🎓 Second-year engineering student (BTech in AI & ML) 
+- 🤖 Passionate about Artificial Intelligence, Machine Learning, and Data Science
+- 🔥 Also exploring Backend Development, Python (NumPy, Pandas, Matplotlib), Robotics, Automotive Design, and Nano-Technology
+- ✨ Dreaming of making an impact with AI-driven solutions
 
-Here are some ideas to get you started:
+### 🛠️ Skills and Tools
+- **Languages**: Python, Java, C (DSA basics), R
+- **Technologies**: Flask, MongoDB, Tkinter, Java AWT/Swing
+- **Tools**: Git, GitHub, VSCode, Jupyter Notebook
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Currently Learning
+- Backend Development (Flask, MongoDB)
+- Python for AI/ML
+- Frontend basics (for full stack exposure)
+
+### 📈 GitHub Stats
+![Ashita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashitajayaram&show_icons=true&theme=radical)
+
+### 🌐 Let's Connect
+- [LinkedIn](www.linkedin.com/in/ashita-jayaram)
+
+
+---
