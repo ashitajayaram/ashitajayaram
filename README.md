@@ -80,7 +80,10 @@
 
 
 ### 📈 GitHub Stats
-![Ashita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashitajayaram&show_icons=true&theme=radical)
+
+![Ashita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashitajayaram&show_icons=true&theme=radical&count_private=true&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashitajayaram&layout=compact&theme=radical&hide=html,css&langs_count=6)
 
 ### 📚 Currently Learning
 - 🤖 **Machine Learning** with Python and TensorFlow
