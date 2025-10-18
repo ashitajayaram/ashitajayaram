@@ -8,7 +8,7 @@
 ### 🚀 About Me
 - 🎓 Engineering student (BTech in AI & ML) 
 - 🤖 Passionate about Artificial Intelligence, Machine Learning, and Data Science
-- 🔥 Also exploring Backend Development, Python (NumPy, Pandas, Matplotlib), Robotics, Automotive Design, and Nano-Technology
+- 🔥 Also exploring Backend Development, Python (NumPy, Pandas, Matplotlib), Robotics, Automotive Design, and Data Analysis
 - ✨ Dreaming of making an impact with AI-driven solutions
 
 ### 🌐 Connect with Me
