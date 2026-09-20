@@ -5,11 +5,8 @@
 
 
 
-### 🚀 About Me
-- 🎓 Engineering student (BTech in AI & ML) 
-- 🤖 Passionate about Artificial Intelligence, Machine Learning, and Data Science
-- 🔥 Also exploring Backend Development, Python (NumPy, Pandas, Matplotlib), Robotics, Automotive Design, and Data Analysis
-- ✨ Dreaming of making an impact with AI-driven solutions
+### About Me
+randomly exploring tech
 
 ### 🌐 Connect with Me
 <p align="left">
@@ -79,18 +76,12 @@
 
 
 
-### 📈 GitHub Stats
 
-![Ashita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashitajayaram&show_icons=true&theme=radical&count_private=true&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashitajayaram&layout=compact&theme=radical&hide=html,css&langs_count=6)
 
 ### 📚 Currently Learning
-- 🤖 **Machine Learning** with Python and TensorFlow
-- 🖥️ **Backend Development** with **Flask** and **MongoDB**
-- 🌐 **Frontend Development** (HTML, CSS, JavaScript)
-- 📊 Exploring **Data Science** with **Pandas** and **Matplotlib**
+- **Machine Learning** with Python and TensorFlow
+- Exploring **Data Science** with **Pandas** and **Matplotlib**
 
-### 📬 Let’s connect and build something amazing together!
+### Let’s connect and build something amazing together!
 
 ---
