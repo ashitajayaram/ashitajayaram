@@ -1,21 +1,17 @@
 
-  <h1 align="center">Hi, I'm Ashita 👋</h1>
+  <h1 align="center">Hi, I'm Ashita </h1>
   <h4 align="center">Passionate about Solving Real-World Problems through Innovation</h4>
 
 
 
 
 ### About Me
-randomly exploring tech
+interested in a lot of things tech related, crazy about music & randomly exploring tech ig
 
 ### 🌐 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/ashita-jayaram" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://instagram.com/ashitatihsa" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
 <a href="mailto:ashitajayaram.work@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
@@ -24,7 +20,7 @@ randomly exploring tech
 </a>
 </p>
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 #### Have experience with
 <p align="left">
   <span style="display: inline-block; margin-right: 50px;">
